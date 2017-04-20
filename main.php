@@ -44,7 +44,7 @@
                         </div>
   <TABLE width='50%' align='center'>
     <TR>
-	 <TD  align='center'><a class='BTN-B' href="http://web592group17.appspot.com/index.html">เข้าสู่เว็บไซต์</a></TD>
+	 <TD  align='center'><a class='BTN-B' href="http://web592group17.appspot.com/index.html">Enter</a></TD>
 	</TR>
   </TABLE>
 </CENTER>
