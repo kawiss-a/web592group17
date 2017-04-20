@@ -31,9 +31,21 @@
 </head>
 
 <body>
-
-    <div class="brand">Business Casual</div>
-    <div class="address-bar">3481 Melrose Place | Beverly Hills, CA 90210 | 123.456.7890</div>
+	<div class="collapse navbar-collapse navbar-right navbar-main-collapse">
+      <ul class="nav navbar-nav">
+         
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">LOGIN <b class="caret"></b></a>
+          <ul class="dropdown-menu">
+            <li><a href='http://www.redvelvetfiction.com/world/index.php?app=core&amp;module=global&amp;section=login' title='Sign In' id='sign_in'><img src="http://www.redvelvetfiction.com/world/public/style_images/2016epic/user_login.png" alt="" /> Sign In</a>
+			<li><a href='login.php' title='log_in' id='log_in'><img src="http://www.redvelvetfiction.com/world/public/style_images/2016epic/user_login.png" alt="" /> Login </a>
+			
+          </ul>
+        </li>
+      </ul>
+            </div>
+    <div class="brand">BlackshadowSeries</div>
+    <div class="address-bar">Wellcome to BlackshadowSeries</div>
 
     <!-- Navigation -->
     <nav class="navbar navbar-default" role="navigation">
@@ -47,7 +59,7 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- navbar-brand is hidden on larger screens, but visible when the menu is collapsed -->
-                <a class="navbar-brand" href="index.html">Business Casual</a>
+                <a class="navbar-brand" href="index.php">BlackshadowSeries</a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -56,13 +68,13 @@
                         <a href="index.php">Home</a>
                     </li>
                     <li>
-                        <a href="about.html">About</a>
+                        <a href="about.html">SERIES</a>
                     </li>
                     <li>
-                        <a href="blog.html">Blog</a>
+                        <a href="blog.html">KOREAN SERIES</a>
                     </li>
                     <li>
-                        <a href="contact.html">Contact</a>
+                        <a href="contact.html">JAPANESE SERIES</a>
                     </li>
                 </ul>
             </div>
