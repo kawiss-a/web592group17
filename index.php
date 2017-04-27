@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
+
+<?php
+error_reporting(0);
+?>
 <?php 
 	$appid="web592group17.appspot.com";
 	 $page = $_GET['p'];
@@ -59,7 +63,6 @@ function userpic($uid){
 </head>
 
 <body>
-
     <center><h6><div class="brand">BlackshadowSeries</div></h6></center>
 
 <!-- Navigation -->
